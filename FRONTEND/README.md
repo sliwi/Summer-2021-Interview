@@ -5,10 +5,10 @@ Welcome to the OutStem front-end challenge. Submission instructions are listed b
 ## Challenge - Frank’s Waste Wizard
 Our client Frank (who lives in Toronto) has requested that we help him with waste sorting, he comes from the old times where everything goes into the trash and gets collected three times a week, one day he received a notice from the city that he will be fined if he doesn’t start properly sorting his waste. Confused by the complex waste sorting charts, he turned to us for help - he wants us to create a front-end only web app that makes it easier for him to:
 
--	Search for waste item by keyword, item name, etc.
--	Display the proper bin to dispose the trash in
--	Display the escaped information that comes with the dataset properly
--	Add items to a collection called “waste room”. Remove items from the “waste room”
+- Search for waste item by keyword, item name, etc.
+- Display the proper bin to dispose the trash in
+- Display the escaped information that comes with the dataset properly
+- Add items to a collection called “waste room”. Remove items from the “waste room”
 ## Data & Assets
 Here is the Toronto waste dataset that is provided by the City of Toronto, it comes in JSON format so it should be able to be directly consumed by your web app.
 
@@ -17,6 +17,11 @@ https://secure.toronto.ca/cc_sr_v1/data/swm_waste_wizard_APR?limit=1000
 ```
 
 We have also included some pictures for the different household waste bins in the [assets](/assets) folder. You will need to find a custom icon for a few additional waste types.
+
+## Screenshot
+![Screenshot Example](screenshot.png)
+
+You should not implement the design 1:1, please add your own understanding to this simple mock up.
 
 ## Technical requirements
 1. App will be accessible using a browser
