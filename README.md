@@ -32,3 +32,7 @@ Good luck and have fun!
 [Front-end Challenge](/FRONTEND)
 
 [Back-end Challenge](/BACKEND)
+
+## Questions
+For questions about the technical challenge please contact Yong Lin at ywang34@uottawa.ca \
+For questions about the personal interview please contact Ivana at ierlich@uottawa.ca
