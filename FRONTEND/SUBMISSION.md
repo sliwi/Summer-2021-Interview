@@ -1,19 +1,26 @@
 ## Repository: 
 
 ```
-PLACE_REPO_LINK_HERE
+https://github.com/sliwi/uOttawa_S2021_Interview
 ```
 
 ## Deployed App URL: 
 
 ```
-PLACE_LINK_TO_ACCESS_APP
+https://sliwi.github.io/uOttawa_S2021_Interview/.
 ```
 
 ## Run Instructions
 
-ADD_INSTRUCTIONS_ON_HOW_TO_RUN_YOUR_APP
+Access app via deployed app url provided above.
+
+* Enter household item using the search bar (Ex: Milk).
+* Click 'Search'.
+* If the keyword is valid, household items matching the keyword will be displayed.
+* Click on 'Load More Results' for more items or click on 'Add to Waste Room' to add item to waste room.
+* Navigate to the Waste Room using link in the navigation bar.
+* View or Delete items from the Waste Room.
 
 ## Additional Information
 
-ANYTHING_ELSE_YOU_WOULD_LIKE_TO_SHARE
+The app contains basic functionality. However, it is not complete.
